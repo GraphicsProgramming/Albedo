@@ -1,5 +1,4 @@
 build/*
-models/*
 external/glm/*
 external/embree2/*
 lib/*
