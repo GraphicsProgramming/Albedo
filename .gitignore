@@ -1,7 +1,9 @@
 build/*
 models/*
-include/glm/*
-include/embree2/*
+external/glm/*
+external/embree2/*
+lib/*
+.vscode/*
 
 *.ppm
 *.dll
